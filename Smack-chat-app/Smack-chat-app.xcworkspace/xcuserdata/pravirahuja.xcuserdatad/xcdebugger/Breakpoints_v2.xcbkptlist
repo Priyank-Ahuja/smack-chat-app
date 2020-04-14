@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CDF66F40-38EE-47FA-BDF4-683070A996A4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "583194AA-E099-4CBC-ADD9-B2EC5664E4CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/CreateAccountViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "createAccountPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "583194AA-E099-4CBC-ADD9-B2EC5664E4CC - 710249497805302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smack_chat_app.CreateAccountViewController.createAccountPressed(Any) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/CreateAccountViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "3638">
+               </Location>
+               <Location
+                  uuid = "583194AA-E099-4CBC-ADD9-B2EC5664E4CC - b70059a5747ad6eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Smack_chat_app.CreateAccountViewController.createAccountPressed(Any) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/CreateAccountViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "285">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0092C30-EC0A-4255-A800-53625BD01727"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/CreateAccountViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "createAccountPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D0092C30-EC0A-4255-A800-53625BD01727 - b70059a5747ad6eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Smack_chat_app.CreateAccountViewController.createAccountPressed(Any) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/CreateAccountViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "D0092C30-EC0A-4255-A800-53625BD01727 - bd56edccd1ab5397"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Bool) -&gt; () in Smack_chat_app.CreateAccountViewController.createAccountPressed(Any) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/CreateAccountViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E7FA21C-71EC-4D23-94A7-B48985BD8061"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/CreateAccountViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "createAccountPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E7FA21C-71EC-4D23-94A7-B48985BD8061 - bd56edccd1ab5397"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Bool) -&gt; () in Smack_chat_app.CreateAccountViewController.createAccountPressed(Any) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/CreateAccountViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "199">
+               </Location>
+               <Location
+                  uuid = "2E7FA21C-71EC-4D23-94A7-B48985BD8061 - b8325c321287368d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Bool) -&gt; () in Smack_chat_app.CreateAccountViewController.createAccountPressed(Any) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/CreateAccountViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B51A9B88-E0C6-4BF0-A3A9-C6287BB5ABF8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/AddChannelViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "createChannelPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B51A9B88-E0C6-4BF0-A3A9-C6287BB5ABF8 - ddf35801e1776246"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smack_chat_app.AddChannelViewController.createChannelPressed(Any) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/AddChannelViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1567">
+               </Location>
+               <Location
+                  uuid = "B51A9B88-E0C6-4BF0-A3A9-C6287BB5ABF8 - f4362d813286087b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Smack_chat_app.AddChannelViewController.createChannelPressed(Any) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/AddChannelViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "749453F0-4C8C-4AFE-AA67-0CB5CBAD3B75"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/AddChannelViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "createChannelPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "972E2BE2-8121-46E5-AF07-40CDD180FFCB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/ChannelViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "972E2BE2-8121-46E5-AF07-40CDD180FFCB - 8d0481b887bba447"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smack_chat_app.ChannelViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/ChannelViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2236">
+               </Location>
+               <Location
+                  uuid = "972E2BE2-8121-46E5-AF07-40CDD180FFCB - 792eb16f4649d964"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Smack_chat_app.ChannelViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/ChannelViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BDBD96D-B6D0-4C91-9158-ADCC96422CDD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loginPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4BDBD96D-B6D0-4C91-9158-ADCC96422CDD - fbab63472d6d3b0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smack_chat_app.LoginViewController.loginPressed(Any) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "2563">
+               </Location>
+               <Location
+                  uuid = "4BDBD96D-B6D0-4C91-9158-ADCC96422CDD - 7f83518835445a56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Smack_chat_app.LoginViewController.loginPressed(Any) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "869AADC7-092C-44D4-8DD7-050D82222E0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "loginPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19F709BA-ECEB-44A6-B6CD-17C9F2775183"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "loginPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "19F709BA-ECEB-44A6-B6CD-17C9F2775183 - 7f83518835445a56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Smack_chat_app.LoginViewController.loginPressed(Any) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "19F709BA-ECEB-44A6-B6CD-17C9F2775183 - 7a2db9ff7a290b31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Bool) -&gt; () in Smack_chat_app.LoginViewController.loginPressed(Any) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7DFAFED-9E2D-4111-A349-7CC3DE2E840A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "loginPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A54DBFC-7892-4440-8EF8-850F2FB8C99C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Services/SocketService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "getTypingUsers(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A54DBFC-7892-4440-8EF8-850F2FB8C99C - 9bdc318a924dc28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smack_chat_app.SocketService.getTypingUsers((Swift.Dictionary&lt;Swift.String, Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Services/SocketService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "0A54DBFC-7892-4440-8EF8-850F2FB8C99C - 86b20c4047da01e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Smack_chat_app.SocketService.getTypingUsers((Swift.Dictionary&lt;Swift.String, Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Services/SocketService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "202">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EC5EF57-E877-4814-84D1-AA6D6451855E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "messageBoxEditing(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F75A3487-6966-4F73-9957-3B8EEC518757"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F75A3487-6966-4F73-9957-3B8EEC518757 - 73969b770604d2a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smack_chat_app.ChatViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "5432">
+               </Location>
+               <Location
+                  uuid = "F75A3487-6966-4F73-9957-3B8EEC518757 - 8835162c67d8058"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Dictionary&lt;Swift.String, Swift.String&gt;) -&gt; () in Smack_chat_app.ChatViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Smack-chat-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pravirahuja/Desktop/smack/smack-chat-app/Smack-chat-app/Smack-chat-app/Controller/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "369">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8F11AF6-2C89-4100-A583-780B3CE75A2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Smack-chat-app/Controller/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
